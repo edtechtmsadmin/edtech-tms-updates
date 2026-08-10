@@ -1,8 +1,8 @@
 {
   "version": "1.5.0",
   "setupUrl": "https://github.com/edtechtmsadmin/edtech-tms-updates/releases/download/v1.5.0/TMS-Desktop-Setup-1.5.0-EdTech.exe",
-  "sha256": "b9bfeae7883ed1d6f6195e296603ab1b58d2952db6ca6f4051dcc3511be1537b",
-  "size": 104550465,
-  "notes": "Major UI updates; improved reports; improved backup system; improved Windows compatibility; added Mac build support; fixed Restart-to-update installation path, legacy shortcuts, and automatic relaunch.",
+  "sha256": "fe3df42cf785727cee29cd97e20ad1ed453307446f980ad86a5de68bc6bd7404",
+  "size": 104469234,
+  "notes": "TMS Desktop v1.5.0 with smooth native install/uninstall progress, existing-shortcut reuse, no duplicate desktop shortcut, hidden uninstall helpers, and automatic relaunch after updates.",
   "mandatory": false
 }
