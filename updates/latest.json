@@ -1,11 +1,8 @@
 {
   "version": "1.5.0",
-  "releaseDate": "2026-08-10",
-  "setupFile": "TMS-Desktop-Setup-1.5.0-EdTech.exe",
-  "downloadUrl": "https://github.com/edtechmsadmin/edtech-tms-updates/releases/download/v1.5.0/TMS-Desktop-Setup-1.5.0-EdTech.exe",
-  "notes": [
-    "Major Updates",
-    "Improved reports",
-    "Improved backup system"
-  ]
+  "setupUrl": "https://github.com/edtechtmsadmin/edtech-tms-updates/releases/download/v1.5.0/TMS-Desktop-Setup-1.5.0-EdTech.exe",
+  "sha256": "9884d3b297d18b6a31f9bfcf1741d430643eab911fac14e7c465248d0d812ccf",
+  "size": 104524883,
+  "notes": "Major UI updates; improved reports; improved backup system; improved Windows compatibility; added Mac build support.",
+  "mandatory": false
 }
