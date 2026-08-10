@@ -1,8 +1,8 @@
 {
   "version": "1.5.0",
   "releaseDate": "2026-08-10",
-  "setupFile": "TMS-Desktop-v1.5.0-Setup-Windows-x64.exe",
-  "downloadUrl": "https://github.com/edtechmsadmin/edtech-tms-updates/releases/download/v1.5.0/TMS-Desktop-v1.5.0-Setup-Windows-x64.exe",
+  "setupFile": "TMS-Desktop-Setup-1.5.0-EdTech.exe",
+  "downloadUrl": "https://github.com/edtechmsadmin/edtech-tms-updates/releases/download/v1.5.0/TMS-Desktop-Setup-1.5.0-EdTech.exe",
   "notes": [
     "Major Updates",
     "Improved reports",
