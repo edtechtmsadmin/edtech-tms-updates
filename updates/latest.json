@@ -1,10 +1,11 @@
 {
   "version": "1.5.0",
   "releaseDate": "2026-08-10",
-  "downloadWindows": "https://github.com/edtechmsadmin/edtech-tms-updates/releases/tag/v1.5.0",
-  "downloadMac": "https://github.com/edtechmsadmin/edtech-tms-updates/releases/tag/v1.5.0",
+  "setupFile": "TMS-Desktop-v1.5.0-Setup-Windows-x64.exe",
+  "downloadUrl": "https://github.com/edtechmsadmin/edtech-tms-updates/releases/download/v1.5.0/TMS-Desktop-v1.5.0-Setup-Windows-x64.exe",
   "notes": [
-    "A major update",
-    "Improved application performance"
+    "Major Updates",
+    "Improved reports",
+    "Improved backup system"
   ]
 }
