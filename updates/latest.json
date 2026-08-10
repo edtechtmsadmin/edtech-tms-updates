@@ -1,8 +1,10 @@
 {
-  "version": "1.1.3",
-  "setupUrl": "https://github.com/edtechtmsadmin/edtech-tms-updates/releases/download/v1.1.3/TMS-Desktop-Setup-1.1.3-EdTech.exe",
-  "sha256": "deb5b5fe12d5b2ef329cd1c90395775e0f90e05fb7ba6d49ae41387956237dbb",
-  "size": 210146078,
-  "notes": "First update-enabled EdTech TMS Desktop release.",
-  "mandatory": false
+  "version": "1.5.0",
+  "releaseDate": "2026-08-10",
+  "downloadWindows": "https://github.com/edtechmsadmin/edtech-tms-updates/releases/tag/v1.5.0",
+  "downloadMac": "https://github.com/edtechmsadmin/edtech-tms-updates/releases/tag/v1.5.0",
+  "notes": [
+    "A major update",
+    "Improved application performance"
+  ]
 }
