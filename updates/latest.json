@@ -1,8 +1,8 @@
 {
-  "version": "1.5.0",
-  "setupUrl": "https://github.com/edtechtmsadmin/edtech-tms-updates/releases/download/v1.5.0/TMS-Desktop-Setup-1.5.0-EdTech.exe",
-  "sha256": "fe3df42cf785727cee29cd97e20ad1ed453307446f980ad86a5de68bc6bd7404",
-  "size": 104469234,
-  "notes": "TMS Desktop v1.5.0 with smooth native install/uninstall progress, existing-shortcut reuse, no duplicate desktop shortcut, hidden uninstall helpers, and automatic relaunch after updates.",
+  "version": "1.6.0",
+  "setupUrl": "https://github.com/edtechtmsadmin/edtech-tms-updates/releases/download/v1.6.0/TMS-Desktop-Setup-v1.6.exe",
+  "sha256": "e4d7c032142ecb9368f8d7ee5f80ca9a8a6b2c6634d2e672c8b261d14b4a13c1",
+  "size": 201015822,
+  "notes": "TMS Desktop v1.6: new installer and uninstaller (Windows 7 to 11, 32-bit and 64-bit), Mac version, Grades 4-10 Summary of Grades and SF9, MAPEH one-part fix. Your school data and license stay.",
   "mandatory": false
 }
