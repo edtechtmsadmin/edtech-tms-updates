@@ -1,0 +1,7 @@
+{
+  "versionCode": 67,
+  "versionName": "1.8",
+  "apk": "https://github.com/edtechtmsadmin/edtech-tms-updates/releases/download/v1.6.3/TeachHub-Student-1.8.apk",
+  "sha256": "af8fc65bd3bd76e1b77740aae93e9561658727b63599e84332ffb2eb24effa4e",
+  "notes": "Updates itself online, the menu always works, a cleaner Home."
+}

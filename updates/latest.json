@@ -1,8 +1,8 @@
 {
-  "version": "1.6.0",
-  "setupUrl": "https://github.com/edtechtmsadmin/edtech-tms-updates/releases/download/v1.6.0/TMS-Desktop-Setup-v1.6.exe",
-  "sha256": "e4d7c032142ecb9368f8d7ee5f80ca9a8a6b2c6634d2e672c8b261d14b4a13c1",
-  "size": 201015822,
-  "notes": "TMS Desktop v1.6: new installer and uninstaller (Windows 7 to 11, 32-bit and 64-bit), Mac version, Grades 4-10 Summary of Grades and SF9, MAPEH one-part fix. Your school data and license stay.",
+  "version": "1.6.3",
+  "setupUrl": "https://github.com/edtechtmsadmin/edtech-tms-updates/releases/download/v1.6.3/TMS-Desktop-Setup-v1.6.3.exe",
+  "sha256": "25b570560f359469332562b12ad13a015e1cb0c3cdd7cf48b8bc4b0d6648e536",
+  "size": 201035638,
+  "notes": "TMS Desktop 1.6.3: certificates 1 or 2 per page; Item Analysis Mean, MPS and MPL from the E-Class Record; the QR code is back on every School ID, with the full school address. Your school data and license stay.",
   "mandatory": false
 }
