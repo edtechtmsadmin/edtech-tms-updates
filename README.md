@@ -9,7 +9,7 @@ Latest Version:
 TMS Desktop 1.6.7 (November 2026)
 
 - TeachHub Student for Android 1.8.1
-- TMS Tablet 1.2.2 (Android tablets)
+- TMS Tablet 1.2.3 (Android tablets)
 - TMS Exam Scanner 1.5
 
 Supported:
