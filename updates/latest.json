@@ -1,8 +1,8 @@
 {
-  "version": "1.6.6",
-  "setupUrl": "https://github.com/edtechtmsadmin/edtech-tms-updates/releases/download/v1.6.6/TMS-Desktop-Setup-v1.6.6.exe",
-  "sha256": "01929092c3a305cfb704fd575a51f52d96e4b4f1afcedb10b44e21623bc1045f",
-  "size": 196752925,
-  "notes": "TMS Desktop 1.6.6: a new logo; Index Card on half the paper; Grade Slip with small equal margins and MAPEH parts; SF8, SF9 paper guide and Anecdotal Record fixes. Your school data and license stay.",
+  "version": "1.6.7",
+  "setupUrl": "https://github.com/edtechtmsadmin/edtech-tms-updates/releases/download/v1.6.7/TMS-Desktop-Setup-v1.6.7.exe",
+  "sha256": "a357a244f6eb4b67955f369e0e0f543289dbed161956a63d6575b7f856562dd3",
+  "size": 197116534,
+  "notes": "TMS Desktop 1.6.7: SF3 Books Issued and Returned with a Book Receiving Form; E-Class Record points without HPS count; updates reopen TMS by themselves. Your school data and license stay.",
   "mandatory": false
 }

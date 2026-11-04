@@ -1,7 +1,7 @@
 {
-  "versionCode": 4,
-  "versionName": "1.2.1",
-  "apk": "https://github.com/edtechtmsadmin/edtech-tms-updates/releases/download/v1.6.6/TMS-Tablet-1.2.1.apk",
-  "sha256": "9b41dabf76047fa79333bc86ddf5bf773a15655512a32660970f827da6b3b3a8",
-  "notes": "The Exam Scanner works with the tablet; the new logo; the school forms of TMS 1.6.6."
+  "versionCode": 5,
+  "versionName": "1.2.2",
+  "apk": "https://github.com/edtechtmsadmin/edtech-tms-updates/releases/download/v1.6.7/TMS-Tablet-1.2.2.apk",
+  "sha256": "a52aa51be247450173b17ecfe5e8d2d625de7a5224503d144ef5ef28d244bc0b",
+  "notes": "Updates show in the update bar at the bottom; SF3 and the Book Receiving Form of TMS 1.6.7."
 }
