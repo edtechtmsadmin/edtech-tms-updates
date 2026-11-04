@@ -1,7 +1,7 @@
 {
-  "versionCode": 5,
-  "versionName": "1.2.2",
-  "apk": "https://github.com/edtechtmsadmin/edtech-tms-updates/releases/download/v1.6.7/TMS-Tablet-1.2.2.apk",
-  "sha256": "a52aa51be247450173b17ecfe5e8d2d625de7a5224503d144ef5ef28d244bc0b",
-  "notes": "Updates show in the update bar at the bottom; SF3 and the Book Receiving Form of TMS 1.6.7."
+  "versionCode": 6,
+  "versionName": "1.2.3",
+  "apk": "https://github.com/edtechtmsadmin/edtech-tms-updates/releases/download/v1.6.7/TMS-Tablet-1.2.3.apk",
+  "sha256": "a552959457d2f9b33c855225ba73bbc86d99c99cc62e9bfa9f232559d784be2c",
+  "notes": "Fixes the license: after updating to 1.2.2 the tablet asked for the license key and refused it. Your school data stays."
 }
