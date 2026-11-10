@@ -1,0 +1,7 @@
+{
+  "versionCode": 17,
+  "versionName": "1.7",
+  "apk": "https://github.com/edtechtmsadmin/edtech-tms-updates/releases/download/v1.6.9/TMS-Scanner-1.7.apk",
+  "sha256": "55aab1b8967ad3a0174e14643c8f56bfe6a06dff62bd8fcaaa8e0ef5f95a58ba",
+  "notes": "The app now updates itself: it checks for a new version and downloads it by itself; tap Install."
+}

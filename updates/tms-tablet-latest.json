@@ -1,7 +1,7 @@
 {
-  "versionCode": 8,
-  "versionName": "1.2.5",
-  "apk": "https://github.com/edtechtmsadmin/edtech-tms-updates/releases/download/v1.6.9/TMS-Tablet-1.2.5.apk",
-  "sha256": "9c114d48f55bd60fab0992ad6a59c212607045a4cdf7e3f2c6502e1431113ea2",
-  "notes": "The new Exam Scanner answer sheet and the 3-step New Mixed Exam of TMS 1.6.8."
+  "versionCode": 9,
+  "versionName": "1.2.6",
+  "apk": "https://github.com/edtechtmsadmin/edtech-tms-updates/releases/download/v1.6.9/TMS-Tablet-1.2.6.apk",
+  "sha256": "826fa078db4c21c7a01c1e60d3bef8fcb1e63e84c35fb3f464cc50b4e629000d",
+  "notes": "Everything in TMS Desktop 1.6.9: the Anecdotal Record lists your teaching classes too, and phone score entry for the E-Class Record."
 }
