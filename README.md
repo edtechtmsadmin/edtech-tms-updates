@@ -6,11 +6,11 @@ Official update server for EdTech TMS Desktop.
 
 Latest Version:
 
-TMS Desktop 1.6.7 (November 2026)
+TMS Desktop 1.6.9 (November 2026)
 
 - TeachHub Student for Android 1.8.1
-- TMS Tablet 1.2.3 (Android tablets)
-- TMS Exam Scanner 1.5
+- TMS Tablet 1.2.5 (Android tablets)
+- TMS Exam Scanner 1.6
 
 Supported:
 
