@@ -1,7 +1,7 @@
 {
-  "versionCode": 6,
-  "versionName": "1.2.3",
-  "apk": "https://github.com/edtechtmsadmin/edtech-tms-updates/releases/download/v1.6.7/TMS-Tablet-1.2.3.apk",
-  "sha256": "a552959457d2f9b33c855225ba73bbc86d99c99cc62e9bfa9f232559d784be2c",
-  "notes": "Fixes the license: after updating to 1.2.2 the tablet asked for the license key and refused it. Your school data stays."
+  "versionCode": 8,
+  "versionName": "1.2.5",
+  "apk": "https://github.com/edtechtmsadmin/edtech-tms-updates/releases/download/v1.6.9/TMS-Tablet-1.2.5.apk",
+  "sha256": "9c114d48f55bd60fab0992ad6a59c212607045a4cdf7e3f2c6502e1431113ea2",
+  "notes": "The new Exam Scanner answer sheet and the 3-step New Mixed Exam of TMS 1.6.8."
 }

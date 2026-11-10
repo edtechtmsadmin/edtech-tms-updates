@@ -1,8 +1,8 @@
 {
-  "version": "1.6.7",
-  "setupUrl": "https://github.com/edtechtmsadmin/edtech-tms-updates/releases/download/v1.6.7/TMS-Desktop-Setup-v1.6.7.exe",
-  "sha256": "a357a244f6eb4b67955f369e0e0f543289dbed161956a63d6575b7f856562dd3",
-  "size": 197116534,
-  "notes": "TMS Desktop 1.6.7: SF3 Books Issued and Returned with a Book Receiving Form; E-Class Record points without HPS count; updates reopen TMS by themselves. Your school data and license stay.",
+  "version": "1.6.9",
+  "setupUrl": "https://github.com/edtechtmsadmin/edtech-tms-updates/releases/download/v1.6.9/TMS-Desktop-Setup-v1.6.9.exe",
+  "sha256": "5cc8b6f810c40c72694649f1f8b23848640b9672c0ecf3d4eb6ee161b8ac8d93",
+  "size": 197160266,
+  "notes": "TMS Desktop 1.6.9: the Anecdotal Record lists your teaching classes too; a new Exam Scanner answer sheet that reads every question type, a 3-step New Mixed Exam, Results in one screen, and the TMS Exam Scanner app 1.6. Your school data and license stay.",
   "mandatory": false
 }
