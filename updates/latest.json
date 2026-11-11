@@ -1,8 +1,8 @@
 {
-  "version": "1.6.9",
-  "setupUrl": "https://github.com/edtechtmsadmin/edtech-tms-updates/releases/download/v1.6.9/TMS-Desktop-Setup-v1.6.9.exe",
-  "sha256": "5cc8b6f810c40c72694649f1f8b23848640b9672c0ecf3d4eb6ee161b8ac8d93",
-  "size": 197160266,
-  "notes": "TMS Desktop 1.6.9: the Anecdotal Record lists your teaching classes too; a new Exam Scanner answer sheet that reads every question type, a 3-step New Mixed Exam, Results in one screen, and the TMS Exam Scanner app 1.6. Your school data and license stay.",
+  "version": "1.6.13",
+  "setupUrl": "https://github.com/edtechtmsadmin/edtech-tms-updates/releases/download/v1.6.13/TMS-Desktop-Setup-v1.6.13.exe",
+  "sha256": "7e3ccc1868efb3189cf9392e9ecd86075b83c3048b72612d0350075c50643626",
+  "size": 197185063,
+  "notes": "TMS Desktop 1.6.13: E-Class Record scores never above their HPS, the new icon right after Setup; SF1 and SF5 of Grades 4 to 10 as DepEd's LIS prints them, whole table lines in the school forms, SF5A/SF5B rows as tall as their template, SF2 centred; with 1.6.11 (faster, no old screens, printing that no longer gives a black page, result slips four on a page) and with the 1.6.10 Exam Scanner features (Test Sets A to D, two-answer keys, item analysis, result slips, written answers checked on screen). Your school data and license stay.",
   "mandatory": false
 }
