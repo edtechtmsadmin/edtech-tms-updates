@@ -1,7 +1,7 @@
 {
-  "versionCode": 13,
-  "versionName": "1.3.3",
-  "apk": "https://github.com/edtechtmsadmin/edtech-tms-updates/releases/download/v1.6.13/TMS-Tablet-1.3.3.apk",
-  "sha256": "90c217bbeafd4f8d2d24b76c4cab668b923dbe48f24c9e94f6987f9c025d2bdb",
-  "notes": "Everything in TMS Desktop 1.6.13: scores never above their HPS; SF1 and SF5 as the LIS prints them, whole table lines, faster, printing fixed."
+  "versionCode": 17,
+  "versionName": "1.3.7",
+  "apk": "https://github.com/edtechtmsadmin/edtech-tms-updates/releases/download/v1.6.17/TMS-Tablet-1.3.7.apk",
+  "sha256": "dab5c7bdefadf117e8ee9ae657e90935f43f6c0d333fc0f4852ab14e4b14d47e",
+  "notes": "Answer sheets and every form now save as files (PDF, Word, Excel) instead of printing; TMS no longer sits under the clock bar on Android 15; everything in TMS Desktop 1.6.17."
 }

@@ -1,7 +1,7 @@
 {
   "versionCode": 18,
   "versionName": "1.8",
-  "apk": "https://github.com/edtechtmsadmin/edtech-tms-updates/releases/download/v1.6.13/TMS-Scanner-1.8.apk",
+  "apk": "https://github.com/edtechtmsadmin/edtech-tms-updates/releases/download/v1.6.17/TMS-Scanner-1.8.apk",
   "sha256": "88e2a94ceee350b23dbd49303783fade357183173cd77b175e515064745cf7f3",
   "notes": "A new home screen; the section comes from TMS by itself; flashlight, sound, a counter, learner view, and sending that waits for TMS."
 }

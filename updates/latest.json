@@ -1,8 +1,8 @@
 {
-  "version": "1.6.13",
-  "setupUrl": "https://github.com/edtechtmsadmin/edtech-tms-updates/releases/download/v1.6.13/TMS-Desktop-Setup-v1.6.13.exe",
-  "sha256": "7e3ccc1868efb3189cf9392e9ecd86075b83c3048b72612d0350075c50643626",
-  "size": 197185063,
-  "notes": "TMS Desktop 1.6.13: E-Class Record scores never above their HPS, the new icon right after Setup; SF1 and SF5 of Grades 4 to 10 as DepEd's LIS prints them, whole table lines in the school forms, SF5A/SF5B rows as tall as their template, SF2 centred; with 1.6.11 (faster, no old screens, printing that no longer gives a black page, result slips four on a page) and with the 1.6.10 Exam Scanner features (Test Sets A to D, two-answer keys, item analysis, result slips, written answers checked on screen). Your school data and license stay.",
+  "version": "1.6.17",
+  "setupUrl": "https://github.com/edtechtmsadmin/edtech-tms-updates/releases/download/v1.6.17/TMS-Desktop-Setup-v1.6.17.exe",
+  "sha256": "e7d8a004095b955ff00c7aafeb79942f9f44ad6f52eb7bebcb82af59de305097",
+  "size": 197171679,
+  "notes": "TMS Desktop 1.6.17: TeachHub quizzes and exams on paper (compact print, a Paper test page with the Exam Scanner's tabs, scanned sheets go to the learner's results, History shows where it was used); Exam Scanner imports the parts and the answer key from Word, text, CSV, Excel or JSON, and prints for one learner; every page checked in light and dark; TMS Tablet 1.3.7 saves answer sheets and forms as PDF, Word and Excel. Your school data and license stay.",
   "mandatory": false
 }
