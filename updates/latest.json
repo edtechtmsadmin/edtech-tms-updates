@@ -1,8 +1,8 @@
 {
-  "version": "1.6.17",
-  "setupUrl": "https://github.com/edtechtmsadmin/edtech-tms-updates/releases/download/v1.6.17/TMS-Desktop-Setup-v1.6.17.exe",
-  "sha256": "e7d8a004095b955ff00c7aafeb79942f9f44ad6f52eb7bebcb82af59de305097",
-  "size": 197171679,
-  "notes": "TMS Desktop 1.6.17: TeachHub quizzes and exams on paper (compact print, a Paper test page with the Exam Scanner's tabs, scanned sheets go to the learner's results, History shows where it was used); Exam Scanner imports the parts and the answer key from Word, text, CSV, Excel or JSON, and prints for one learner; every page checked in light and dark; TMS Tablet 1.3.7 saves answer sheets and forms as PDF, Word and Excel. Your school data and license stay.",
+  "version": "1.6.19",
+  "setupUrl": "https://github.com/edtechtmsadmin/edtech-tms-updates/releases/download/v1.6.19/TMS-Desktop-Setup-v1.6.19.exe",
+  "sha256": "c28b072e096a953b11d193fcee8e00acd66a6addd65cb38e330ca4b027a8455d",
+  "size": 197185362,
+  "notes": "TMS Desktop 1.6.19: answer sheets show the LRN on page 1 only and an exam made one item at a time prints like the desktop sheet; SF3 is open in the Subject Teacher role; the Exam Scanner answers at once (no more freezing) and fits the window; a TeachHub paper test shows phone and paper results together; TeachHub exams stay out of TMS\u2019s Exam Scanner. Your school data and license stay.",
   "mandatory": false
 }
