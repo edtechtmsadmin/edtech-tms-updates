@@ -1,8 +1,8 @@
 {
-  "version": "1.6.19",
-  "setupUrl": "https://github.com/edtechtmsadmin/edtech-tms-updates/releases/download/v1.6.19/TMS-Desktop-Setup-v1.6.19.exe",
-  "sha256": "c28b072e096a953b11d193fcee8e00acd66a6addd65cb38e330ca4b027a8455d",
-  "size": 197185362,
-  "notes": "TMS Desktop 1.6.19: answer sheets show the LRN on page 1 only and an exam made one item at a time prints like the desktop sheet; SF3 is open in the Subject Teacher role; the Exam Scanner answers at once (no more freezing) and fits the window; a TeachHub paper test shows phone and paper results together; TeachHub exams stay out of TMS\u2019s Exam Scanner. Your school data and license stay.",
+  "version": "1.6.22",
+  "setupUrl": "https://github.com/edtechtmsadmin/edtech-tms-updates/releases/download/v1.6.22/TMS-Desktop-Setup-v1.6.22.exe",
+  "sha256": "79f4cfddfe13a3112bb626384cea191524ff1157a65cd06e43dd423d65233c37",
+  "size": 196319895,
+  "notes": "TMS Desktop 1.6.22 (includes 1.6.20 and 1.6.21): TeachHub paper test sheets scanned before are confirmed by themselves and show in Results, Item Analytics, the Acknowledgement and TeachHub; a What\u2019s New window; a new School Forms page and form screens; Game & Tools rebuilt full screen with sounds; a clearer Setup School Data; bigger answer-sheet name lines and 2 sheets per page fill the paper; TeachHub test papers show real pages and save as PDF or Word; the adviser\u2019s middle initial on every form and one class picker on every form. Your school data and license stay.",
   "mandatory": false
 }

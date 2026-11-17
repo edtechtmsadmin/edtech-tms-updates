@@ -1,7 +1,7 @@
 {
-  "versionCode": 19,
-  "versionName": "1.3.9",
-  "apk": "https://github.com/edtechtmsadmin/edtech-tms-updates/releases/download/v1.6.19/TMS-Tablet-1.3.9.apk",
-  "sha256": "5699a4b30fad88c27bb2b7665fd382861d3d56139354c92315d4ac08666da1c6",
-  "notes": "The Exam Scanner Print tab saves class sets and blank sheets again (the same sheets as on the laptop); Switch role is back and the TeachHub icon shows; everything in TMS Desktop 1.6.19."
+  "versionCode": 22,
+  "versionName": "1.3.12",
+  "apk": "https://github.com/edtechtmsadmin/edtech-tms-updates/releases/download/v1.6.22/TMS-Tablet-1.3.12.apk",
+  "sha256": "cb66ff491db8e6d5e8bfd27fca3cba6c6b7210f29e42bd0ef18a1e14aed0b89f",
+  "notes": "Everything in TMS Desktop 1.6.22: TeachHub paper test sheets left waiting are confirmed; the new School Forms, Game & Tools and Setup School Data; 2 answer sheets per page save on landscape paper."
 }
