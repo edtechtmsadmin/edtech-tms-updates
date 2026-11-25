@@ -1,17 +1,17 @@
 {
-  "version": "1.6.24",
-  "setupUrl": "https://github.com/edtechtmsadmin/edtech-tms-updates/releases/download/v1.6.24/TMS-Desktop-Setup-v1.6.24.exe",
-  "sha256": "ee99fe8d53f28fce5873d8af9b27032223a862765f5ca97ca417ba7aab911848",
-  "size": 196369835,
-  "notes": "TMS Desktop 1.6.24: a cleaner TeachHub (Dashboard shows what needs you, each class has its own colour), Setup School Data with new layouts, the adviser's middle initial on the School ID and every form, the Teachers window asks for the middle initial, the principal's name prints in full, and the tablet prints 2 answer sheets per page like the laptop. Your school data and license stay.",
+  "version": "1.6.29",
+  "setupUrl": "https://github.com/edtechtmsadmin/edtech-tms-updates/releases/download/v1.6.29/TMS-Desktop-Setup-v1.6.29.exe",
+  "sha256": "749bc979020c5c790e6e64034e79a9544c06dc76f61452d940d2cdfba22140ac",
+  "size": 196847386,
+  "notes": "TMS Desktop 1.6.29: the Grades menu is now Assessment; the E-Class Record opens your last class with its own Grade Sheet button; the new Test Maker (TOS on the DepEd three-term list, sample questions, sets, DepEd TOS print); TeachHub quiz/exam page with a paper-saving test template; new quiz builder, results, grading, Activities and Announcements; ALS classes and a cleaner School ID print. Your school data and license stay.",
   "mandatory": false,
   "mac": {
-    "url": "https://github.com/edtechtmsadmin/edtech-tms-updates/releases/download/v1.6.24/TMS-Desktop-Mac-Update-v1.6.24.zip",
-    "sha256": "ab1a48eb64645a2605e96176073f3a4759945852c93b6460f41e9aa3994cae80",
-    "size": 6903895,
+    "url": "https://github.com/edtechtmsadmin/edtech-tms-updates/releases/download/v1.6.29/TMS-Desktop-Mac-Update-v1.6.29.zip",
+    "sha256": "2f4836f79d0fda05ec1787f80df9e54df7047ba2ecab64188bab324ec566610f",
+    "size": 7148286,
     "electron": "22.3.27",
-    "appleChip": "https://github.com/edtechtmsadmin/edtech-tms-updates/releases/download/v1.6.24/TMS-Desktop-Mac-v1.6.24.zip",
-    "intel": "https://github.com/edtechtmsadmin/edtech-tms-updates/releases/download/v1.6.24/TMS-Desktop-Mac-v1.6.24.zip",
+    "appleChip": "https://github.com/edtechtmsadmin/edtech-tms-updates/releases/download/v1.6.29/TMS-Desktop-Mac-v1.6.29.zip",
+    "intel": "https://github.com/edtechtmsadmin/edtech-tms-updates/releases/download/v1.6.29/TMS-Desktop-Mac-v1.6.29.zip",
     "page": "https://edtechtmsadmin.github.io/edtech-tms-updates/"
   }
 }

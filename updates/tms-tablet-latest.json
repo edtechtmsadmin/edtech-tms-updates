@@ -1,7 +1,7 @@
 {
-  "versionCode": 24,
-  "versionName": "1.3.14",
-  "apk": "https://github.com/edtechtmsadmin/edtech-tms-updates/releases/download/v1.6.24/TMS-Tablet-1.3.14.apk",
-  "sha256": "1e7e1eeeb210682c93079918530e29ed15cfcc569607ec6c33808fab2173df2c",
-  "notes": "Everything in TMS Desktop 1.6.24 for the tablet; 2 answer sheets per page print like on the laptop."
+  "versionCode": 29,
+  "versionName": "1.3.19",
+  "apk": "https://github.com/edtechtmsadmin/edtech-tms-updates/releases/download/v1.6.29/TMS-Tablet-1.3.19.apk",
+  "sha256": "f3dfd438c1b160d07fede08dcb1c8d4773acd3564ddcea498bcb870a79bfd8bb",
+  "notes": "Everything in TMS Desktop 1.6.29 for the tablet."
 }
